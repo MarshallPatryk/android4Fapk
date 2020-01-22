@@ -3,4 +3,7 @@
     <string name="scane">Skanuj</string>
     <string name="textview">Opis</string>
     <string name="todo">TODO</string>
+    <string name="loguj">Loguj</string>
+    <string name="podaj_kod_salonu_np_gd12">Podaj kod salonu np. gd12</string>
+    <string name="podaj_nazw_salonu">Podaj Nazwę Salonu</string>
 </resources>

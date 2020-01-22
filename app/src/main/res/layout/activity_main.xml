@@ -12,6 +12,7 @@
     >
 
     <Button
+        android:id="@+id/btnskan"
         android:layout_width="243dp"
         android:layout_height="49dp"
         android:layout_alignParentStart="true"
@@ -32,6 +33,9 @@
         android:textColor="#fff"
         android:textStyle="bold" />
 
+    git config --global user.email "marshallpatryk@gmail.com"
+    git config --global user.name "MarshallPatryk"
+
     <TextView
         android:id="@+id/wynikScan"
         android:layout_width="261dp"
@@ -42,15 +46,15 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="71dp"
-        android:layout_marginLeft="71dp"
-        android:layout_marginTop="360dp"
-        android:layout_marginEnd="79dp"
-        android:layout_marginRight="79dp"
-        android:layout_marginBottom="240dp"
+        android:layout_marginStart="73dp"
+        android:layout_marginLeft="73dp"
+        android:layout_marginTop="330dp"
+        android:layout_marginEnd="76dp"
+        android:layout_marginRight="76dp"
+        android:layout_marginBottom="270dp"
         android:text="@string/textview"
         android:textColor="#000"
-        android:visibility="invisible"/>
+        android:visibility="visible" />
 
     <ImageView
         android:id="@+id/imageView"

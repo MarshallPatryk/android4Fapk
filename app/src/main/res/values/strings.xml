@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">4F Marshall </string>
+    <string name="scane">Skanuj</string>
+    <string name="textview">Opis</string>
+    <string name="todo">TODO</string>
+</resources>

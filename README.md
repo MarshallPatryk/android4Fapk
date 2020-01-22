@@ -1,15 +1,3 @@
-# Qr/ Barcode Reader
-This tutorial is made using Zxing library.
-Setup steps:
-- Add dependency
-- Add camera permission
-- Edit Xml
-- Write java code, to start scanner
-```sh
-    zXingScannerView =new ZXingScannerView(getApplicationContext());
-    setContentView(zXingScannerView);
-    zXingScannerView.setResultHandler(this);
-    zXingScannerView.startCamera();
-```
-	
-- Get Result. Done
+# Android 4F apk for employees
+This project is made using Zxing library and Volley(Request) in 1.1.1 version.
+

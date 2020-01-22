@@ -1,7 +1,7 @@
 # Android 4F apk for employees
 This project is made using Zxing library and Volley(Request) in 1.1.1 version.
 
-Application cooperates with API hostin on my VPS. API is created in Node.JS and using API shared for employees by 4F Team.
+Application cooperates with API hosted on my VPS. API is created in Node.JS and using API shared for employees by 4F Team.
 
 App is using to scan Bar codes and search products in database. Required: https://github.com/MarshallPatryk/Node4F
 
